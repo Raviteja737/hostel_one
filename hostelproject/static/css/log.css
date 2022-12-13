@@ -1,0 +1,35 @@
+
+
+
+
+body{
+  background: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container .jumbotron{
+  margin-top: 100px;
+  padding-top: 100px;
+  background:url("https://i.pinimg.com/originals/e9/82/bf/e982bf01b4e4dab30caeacf46ee846a3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+
+}
+
+form{
+  color:cyan;
+}
+h1{
+  color:cyan;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+
+  }
+}

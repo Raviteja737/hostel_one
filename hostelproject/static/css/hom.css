@@ -1,0 +1,26 @@
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+
+
+
+
+h1{
+  text-align: center;
+  padding-top: 100px;
+  color:#fc0366;
+
+
+}
+
+body{
+  background: url("https://www.teahub.io/photos/full/90-904284_travel-desktop-wallpaper-tours-and-travels-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

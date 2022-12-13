@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  padding-top:180px;
+  color:#fc0366;
+
+
+}
+
+h2{
+  text-align: center;
+
+  color:#fc0366;
+}
+h3{
+  text-align: center;
+
+  color:#fc0366;
+}
+.container{
+  text-align: center;
+}
+
+body{
+  background: url("https://img.freepik.com/free-vector/realistic-studio-lights-empty-background-design_1017-27233.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+
+  }
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+{% extends 'testapp/main.html' %}
+{%load static %}
+{%block body_block %}
+<div class="container">
+
+
+<link rel="stylesheet" href="{% static 'css/logout.css' %}">
+<h1>Thank you for using the Ravi's Tours</h1>
+<h2>anyway we are feeling sad, please login again and plan a trip</h2>
+<h3>Plan Karo friend</h3>
+<a href="/accounts/login" class="btn btn-success" >Login again</a>
+</div>
+
+{%endblock%}

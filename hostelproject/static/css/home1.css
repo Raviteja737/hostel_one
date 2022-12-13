@@ -1,0 +1,15 @@
+
+.navbar a{
+color:White !important;
+}
+form .btn{
+  color: white !important;
+}
+
+.dropdown a{
+color:Orange !important;
+}
+
+.dropdown-menu a{
+  color:green !important;
+}

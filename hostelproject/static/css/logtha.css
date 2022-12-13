@@ -1,0 +1,53 @@
+
+.navbar a{
+color:White !important;
+}
+form .btn{
+  color: white !important;
+}
+
+.dropdown a{
+color:Orange !important;
+}
+
+.dropdown-menu a{
+  color:green !important;
+}
+a{
+  align-items: center;
+}
+h1{
+  text-align: center;
+  padding-top:80px;
+  color:#fc0366;
+
+
+}
+
+h2{
+  text-align: center;
+  padding-top:80px;
+  color:#fc0366;
+
+
+}
+h3{
+  text-align: center;
+  color:#fc0366;
+
+}
+
+body{
+  background: url("https://images.unsplash.com/photo-1610332262984-c4b37b09bf8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+
+  }
+}
